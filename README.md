@@ -1,7 +1,7 @@
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/alex313031/thorium-woa?label=Version%3A) &nbsp;![GitHub](https://img.shields.io/github/license/alex313031/thorium-woa?color=green&label=License%3A) &nbsp;![GitHub commit activity](https://img.shields.io/github/commit-activity/w/alex313031/thorium?color=blueviolet&label=Commit%20Activity%3A) &nbsp;![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/ChromiumBrowser?style=social)
 
 # Thorium for ARM64 Windows
-__Repo to serve Windows on Arm ([most Intel/AMD CPUs since 2017](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions#CPUs_with_AVX2)) builds of [Thorium](https://github.com/Alex313031/Thorium)!__ \
+__Repo to serve [Windows on Arm](https://en.wikipedia.org/wiki/Windows_on_ARM) builds of [Thorium](https://github.com/Alex313031/Thorium)!__ \
 __*NEW!* Linux builds are here > https://github.com/Alex313031/Thorium-Linux-AVX2__ \
 __*IMPORTANT: PLEASE USE THE NEW WINDOWS 7/8 REPO HERE FOR WINDOWS 7/8/8.1 RELEASES* > https://github.com/Alex313031/thorium-win7__ 
 
